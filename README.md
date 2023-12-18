@@ -7,11 +7,9 @@
 
   the input must look like this:
 
-  100
-  93
-  37
-  36.28945312224264
-  59.59067894784939
+  130
+  86
+  39
 
   the app output:
   
